@@ -118,8 +118,8 @@ agno-financial-analysis/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/agno-financial-analysis.git
-cd agno-financial-analysis
+git clone https://github.com/talibsayyed/Multi-Agent-Financial-Analysis-System.git
+cd Multi-Agent-Financial-Analysis-System
 ```
 
 2. **Create and activate virtual environment**
